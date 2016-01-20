@@ -23,6 +23,11 @@ $ jps
 1626 NameNode
 2269 NodeManager
 
+Ver la info de MapReduce desde el browser
+http://localhost:8080
+Ver la info de HDFS
+http://localhost:50070
+
 Copiar datos
 hdfs dfs -mkdir /data
 hdfs dfs -mkdir /data/gutenberg
